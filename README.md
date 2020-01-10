@@ -2,7 +2,8 @@
 
 A powerful chatting application which supports commands, nicknames, rooms, and is very basic in design... not so much in features.
 
-
+# Known problems
+users have to wait until after they're in chatroom to change nickname. - working on changing this.
 # Commands
 ## Client:
 **/clearlog**
