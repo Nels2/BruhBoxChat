@@ -106,7 +106,7 @@ io.on('connection', (socket) => {
 			});
 			toRoom(room).emit('message', {
 				name: 'server',
-				message: `${socket.proto.id} has joined`
+				message: `${socket.proto.id} has joined the chat!`
 			});
 			socket.emit('message', {
 				name: 'server',
