@@ -1,7 +1,7 @@
 # BruhBoxChat
 
 A powerful chatting application which supports commands, nicknames, rooms, and is very basic in design... not so much in features.
-
+# Please go to https://replit.com/@icxnelly/BruhBoxChat#.replit instead where the source code has been moved to.
 # Known problems
 users have to wait until after they're in chatroom to change nickname. - working on changing this.
 # Commands
